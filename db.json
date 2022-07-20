@@ -1,39 +1,75 @@
 {
     "lawfirms": [
-      {
-          "id": 1,
-          "name": "Bird & Bird",
-          "logo_url": "https://bodhala-assets.s3.amazonaws.com/img/firms/00939/bird&bird.png",
-          "location" : "Ohio, USA",
-          "practice_area" : "litigation",
-          "keywords": "Activities/Line Item Description (keywords)",
-          "firm_tier": "medium",
-          "budget": "$$",
-          "rate" : "",
-          "grad_date" : "",
-          "diversity" : ""        
-      },
-      {
-          "id": 2,
-          "name": "DLA Piper",
-          "logo_url": "https://bodhala-assets.s3.amazonaws.com/img/firms/00001/dlapiper.png"
-      },
-      {
-          "id": 3,
-          "name": "Fox Rothschild",
-          "logo_url": "https://bodhala-assets.s3.amazonaws.com/img/firms/00113/foxrothschild.svg"
-      },
-      {
-          "id": 4,
-          "name": "Mayer Brown",
-          "logo_url": "https://bodhala-assets.s3.amazonaws.com/img/firms/00016/mayerbrownjsm.jpeg"
-      },
-      {
-          "id": 5,
-          "name": "Jones Day",
-          "logo_url": "https://bodhala-assets.s3.amazonaws.com/img/firms/00006/jonesday.gif"
-      }
-    ]
+        {
+            "id": 1,
+            "name": "Bird & Bird",
+            "logo_url": "https://bodhala-assets.s3.amazonaws.com/img/firms/00939/bird&bird.png",
+            "location" : "Ohio, USA",
+            "practice_area" : "litigation",
+            "keywords": "Activities/Line Item Description (keywords)",
+            "firm_tier": "medium",
+            "budget": "$$",
+            "rate" : "",
+            "grad_date" : "",
+            "diversity" : ""        
+        },
+        {
+            "id": 2,
+            "name": "DLA Piper",
+            "logo_url": "https://bodhala-assets.s3.amazonaws.com/img/firms/00001/dlapiper.png",
+            "location" : "Ohio, USA",
+            "practice_area" : "litigation",
+            "keywords": "Activities/Line Item Description (keywords)",
+            "firm_tier": "medium",
+            "budget": "$$",
+            "rate" : "",
+            "grad_date" : "",
+            "diversity" : ""        
+    
+        },
+        {
+            "id": 3,
+            "name": "Fox Rothschild",
+            "logo_url": "https://bodhala-assets.s3.amazonaws.com/img/firms/00113/foxrothschild.svg",
+            "location" : "Ohio, USA",
+            "practice_area" : "litigation",
+            "keywords": "Activities/Line Item Description (keywords)",
+            "firm_tier": "medium",
+            "budget": "$$",
+            "rate" : "",
+            "grad_date" : "",
+            "diversity" : ""        
+    
+        },
+        {
+            "id": 4,
+            "name": "Mayer Brown",
+            "logo_url": "https://bodhala-assets.s3.amazonaws.com/img/firms/00016/mayerbrownjsm.jpeg",
+            "location" : "Ohio, USA",
+            "practice_area" : "litigation",
+            "keywords": "Activities/Line Item Description (keywords)",
+            "firm_tier": "medium",
+            "budget": "$$",
+            "rate" : "",
+            "grad_date" : "",
+            "diversity" : ""        
+    
+        },
+        {
+            "id": 5,
+            "name": "Jones Day",
+            "logo_url": "https://bodhala-assets.s3.amazonaws.com/img/firms/00006/jonesday.gif",
+            "location" : "Ohio, USA",
+            "practice_area" : "litigation",
+            "keywords": "Activities/Line Item Description (keywords)",
+            "firm_tier": "medium",
+            "budget": "$$",
+            "rate" : "",
+            "grad_date" : "",
+            "diversity" : ""        
+    
+        }
+      ]
   }
   
   
